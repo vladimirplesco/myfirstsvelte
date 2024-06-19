@@ -8,4 +8,9 @@ export default defineConfig({
 	// 	overlay: false,
 	// 	},
 	// 	},
+	server: {
+		fs: {
+			strict: false
+		}
+	}
 });

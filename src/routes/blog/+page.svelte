@@ -1,5 +1,4 @@
 <script>
-    // const data: any;
     export let data;
 </script>
 
